@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "263866cf53331fbab120e62e758339b1",
+    "packages": [
+        {
+            "name": "benhall14/php-calendar",
+            "version": "1.4.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/benhall14/php-calendar.git",
+                "reference": "a2d217cc36942330ee90a9f7c39950beda383c7d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/benhall14/php-calendar/zipball/a2d217cc36942330ee90a9f7c39950beda383c7d",
+                "reference": "a2d217cc36942330ee90a9f7c39950beda383c7d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "benhall14\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Benjamin Hall",
+                    "email": "ben@conobe.co.uk",
+                    "homepage": "https://github.com/benhall14",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A simple PHP class to generate calendars.",
+            "homepage": "https://github.com/benhall14/php-calendar",
+            "keywords": [
+                "calendar",
+                "calendars",
+                "date",
+                "time"
+            ],
+            "support": {
+                "issues": "https://github.com/benhall14/php-calendar/issues",
+                "source": "https://github.com/benhall14/php-calendar/tree/1.4.2"
+            },
+            "time": "2023-10-10T22:33:40+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

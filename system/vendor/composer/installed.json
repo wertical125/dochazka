@@ -1,0 +1,58 @@
+{
+    "packages": [
+        {
+            "name": "benhall14/php-calendar",
+            "version": "1.4.2",
+            "version_normalized": "1.4.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/benhall14/php-calendar.git",
+                "reference": "a2d217cc36942330ee90a9f7c39950beda383c7d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/benhall14/php-calendar/zipball/a2d217cc36942330ee90a9f7c39950beda383c7d",
+                "reference": "a2d217cc36942330ee90a9f7c39950beda383c7d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "time": "2023-10-10T22:33:40+00:00",
+            "type": "library",
+            "installation-source": "source",
+            "autoload": {
+                "psr-4": {
+                    "benhall14\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Benjamin Hall",
+                    "email": "ben@conobe.co.uk",
+                    "homepage": "https://github.com/benhall14",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A simple PHP class to generate calendars.",
+            "homepage": "https://github.com/benhall14/php-calendar",
+            "keywords": [
+                "calendar",
+                "calendars",
+                "date",
+                "time"
+            ],
+            "support": {
+                "issues": "https://github.com/benhall14/php-calendar/issues",
+                "source": "https://github.com/benhall14/php-calendar/tree/1.4.2"
+            },
+            "install-path": "../benhall14/php-calendar"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
